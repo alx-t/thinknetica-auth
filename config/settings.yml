@@ -1,0 +1,8 @@
+db:
+  adapter: postgresql
+  host: localhost
+  user: postgres
+pagination:
+  page_size: 10
+secrets:
+  secret_key_base: 'ae51cf41d65246dbb6825e1682226a5e4a849b913e85bd6a417c6f69831cd39830709e74969a45d1330cc5976028e636fe200b4629a3976c687046fc0290de1e'
