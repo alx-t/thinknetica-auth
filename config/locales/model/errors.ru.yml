@@ -1,0 +1,17 @@
+ru:
+  model:
+    errors:
+      user:
+        name:
+          blank: 'Укажите имя'
+        email:
+          blank: 'Укажите email'
+          uniqueness: 'Дубликат email'
+        password:
+          blank: 'Укажите пароль'
+      user_session:
+        email:
+          blank: 'Укажите email'
+          uniqueness: 'Дубликат email'
+        password:
+          blank: 'Укажите пароль'
