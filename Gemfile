@@ -24,7 +24,7 @@ gem 'sequel-seed'
 gem 'dry-initializer', '~> 3.0.3'
 gem 'dry-validation', '~> 1.5.0'
 
-gem 'activesupport', '~> 6.0.0', require: false
+gem 'activesupport', '~> 6.1.7', require: false
 gem 'fast_jsonapi', '~> 1.5'
 
 gem 'pry'
